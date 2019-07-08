@@ -17,7 +17,7 @@
   
 **访问路径：**
 
-[https://lingdian-ah.github.io/lingdian-ah.github.io/](https://lingdian-ah.github.io/lingdian-ah.github.io/ "https://lingdian-ah.github.io/lingdian-ah.github.io/")
+[https://lingdian-ah.github.io/lingdian-ah.github.io/](https://lingdian-ah.github.io/lingdian-ah.github.io/ "gh-pages")
 
 访问的是 gh-pages 分支下的静态页面 index.html，引用当前分支下的：index.css、index.js
 
